@@ -1,5 +1,10 @@
+import { QueryProvider } from "@/providers/query-provider";
+import { Router } from "@/routes/router";
+
 export function App() {
   return (
-    <div className="text-center text-2xl font-bold">Hello, Photo Gallery!</div>
+    <QueryProvider>
+      <Router />
+    </QueryProvider>
   );
 }
