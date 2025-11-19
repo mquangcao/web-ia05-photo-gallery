@@ -155,7 +155,3 @@ Built with Shadcn UI components:
 ## 📄 License
 
 MIT
-
-## 👨‍💻 Author
-
-Built with ❤️ for IA05 Web Application course
